@@ -23,6 +23,7 @@ namespace SRS1
         public MainWindow()
         {
             InitializeComponent();
+            MessageBox.Show("Проект опубликован на GitHub");
         }
     }
 }
