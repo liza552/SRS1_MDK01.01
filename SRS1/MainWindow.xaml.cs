@@ -24,6 +24,7 @@ namespace SRS1
         {
             InitializeComponent();
             MessageBox.Show("Проект опубликован на GitHub");
+            // коммит без подготовки 
         }
     }
 }
